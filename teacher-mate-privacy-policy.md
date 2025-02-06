@@ -5,7 +5,7 @@
 ## Privacy Policy (English)
 
 ### Introduction
-NightskyWorks ("we," "us," or "our") operates the Teacher Mate application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
+Nightsky Works ("we," "us," or "our") operates the Teacher Mate application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
 
 ### Information Collection and Use
 We respect your privacy and handle your data with utmost care. Our application handles the following types of information:
@@ -41,7 +41,7 @@ If you have any questions about this Privacy Policy, please contact us:
 ## 개인정보 취급방침 (한국어)
 
 ### 소개
-NightskyWorks(이하 "회사" 또는 "당사")는 Teacher Mate 애플리케이션(이하 "서비스")을 운영합니다. 본 개인정보 취급방침은 서비스 사용 시 개인정보의 수집, 사용 및 공개에 관한 당사의 정책을 안내합니다.
+Nightsky Works는 Teacher Mate 애플리케이션을 운영합니다. 본 개인정보 취급방침은 서비스 사용 시 개인정보의 수집, 사용 및 공개에 관한 당사의 정책을 안내합니다.
 
 ### 정보 수집 및 사용
 당사는 사용자의 개인정보를 존중하며 세심한 주의를 기울여 처리합니다. 본 애플리케이션에서 다루는 정보는 다음과 같습니다:
