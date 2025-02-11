@@ -34,7 +34,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ### Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 - By email: [singleminded@hanmail.net]
-- By visiting this page on our website: [[Your Contact Page URL](https://github.com/Nightsky6/teacher-mate-privacy-policy)]
+- By visiting this page on our website: [[[Your Contact Page URL](https://github.com/Nightsky6/teacher-mate-privacy-policy)](https://github.com/Nightsky6/teacher-mate-privacy-policy)]
 
 ---
 
